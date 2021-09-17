@@ -1,5 +1,6 @@
 ## Hi there 👋 I am Oleg
 I’m a QA engineer and i'm currently learning at qa.guru  
+[Diploma project](https://github.com/oleja-pleasure/Diploma_project)  
 My contacts:   
 :black_nib:Telegram - Oleja_pleasure  
 :e-mail:Email - oleg-paleev1@mail.ru  
